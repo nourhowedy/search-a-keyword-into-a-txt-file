@@ -1,0 +1,90 @@
+n01967094,shipworm,7,0
+
+n02666501,abandoned ship,539,468
+
+n02692877,airship,1247,662
+
+n02812201,battleship,1185,757
+
+n02956393,capital ship,123,0
+
+n02965300,cargo ship,1178,739
+
+n02986348,cattleship,11,0
+
+n03095699,container ship,1613,1083
+
+n03141327,cruise ship,1256,791
+
+n03316873,factory ship,200,100
+
+n03356038,flagship,48,20
+
+n03426871,gas-turbine ship,202,36
+
+n03465151,guard ship,498,353
+
+n03541269,hospital ship,880,301
+
+n03660562,Liberty ship,285,140
+
+n03668488,lightship,1061,649
+
+n03833907,nuclear-powered ship,69,2
+
+n03896103,passenger ship,1161,753
+
+n03930431,picket ship,50,5
+
+n03953416,place of worship,234,231
+
+n03973003,pocket battleship,60,3
+
+n04129490,sailing warship,93,77
+
+n04146862,school ship,595,507
+
+n04194289,ship,1261,945
+
+n04196080,shipboard system,166,9
+
+n04196502,shipping,1581,872
+
+n04196803,shipping room,2,1
+
+n04196925,ship-towed long-range acoustic detection system,55,0
+
+n04197110,shipwreck,1570,1254
+
+n04224543,sister ship,1141,341
+
+n04245412,small ship,28,20
+
+n04304215,starship,467,165
+
+n04363082,surface ship,488,179
+
+n04474187,transport ship,535,443
+
+n04477725,treasure ship,322,272
+
+n04487894,troopship,335,6
+
+n04552696,warship,1966,862
+
+n04567746,weather ship,190,124
+
+n10173665,hero worshiper,10,0
+
+n10589666,ship-breaker,6,0
+
+n10590146,shipmate,460,193
+
+n10590239,shipowner,29,8
+
+n10590452,shipping agent,87,4
+
+n10792335,worshiper,558,438
+
+n12395463,friendship plant,187,35
+
